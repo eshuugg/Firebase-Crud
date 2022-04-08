@@ -1,0 +1,56 @@
+.maindiv{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 380px;
+    margin-bottom: 0px;
+}
+
+.loginform {
+    font-size: 25px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    letter-spacing: -1px;
+}
+.login{
+    margin-left: 80px;
+}
+
+.button{
+    width:290px
+}
+
+
+
+
+body{
+    background-color: #525252;
+}
+.centered-form{
+	margin-top: 60px;
+}
+
+.centered-form .panel{
+	background: rgba(255, 255, 255, 0.8);
+	box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+    margin-left: 500px;
+}
+.paneltitle{
+    margin-left: 10px;
+}
+
+.panelbody{
+    display: flex;
+    margin-left: 200px;
+}
+
+.panelheading{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+
